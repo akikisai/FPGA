@@ -1,0 +1,8 @@
+net "x1[1]" loc=P15;
+net "x1[0]" loc=C14;
+net "x0[1]" loc=D14;
+net "x0[0]" loc=A10;
+
+net "y[2]" loc=N12;
+net "y[1]" loc=P16;
+net "y[0]" loc=D4;

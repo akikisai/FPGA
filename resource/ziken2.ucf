@@ -1,0 +1,23 @@
+NET "seg(6)" LOC = V13;
+NET "seg(5)" LOC = V15;
+NET "seg(4)" LOC = N8;
+NET "seg(3)" LOC = V10;
+NET "seg(2)" LOC = T10;
+NET "seg(1)" LOC = V16;
+NET "seg(0)" LOC = V8;
+NET "dp"     LOC = T8;
+
+NET "line(3)" LOC = U10;
+NET "line(2)" LOC = R8;
+NET "line(1)" LOC = M8;
+NET "line(0)" LOC = U8;
+
+NET "sw(3)" LOC = P4;
+NET "sw(2)" LOC = F5;
+NET "sw(1)" LOC = F6;
+NET "sw(0)" LOC = P3;
+
+NET "ssw(3)" LOC = P15;
+NET "ssw(2)" LOC = C14;
+NET "ssw(1)" LOC = D14;
+NET "ssw(0)" LOC = A10;

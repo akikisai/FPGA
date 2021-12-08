@@ -1,0 +1,21 @@
+NET "clk0"	 LOC = L15;
+
+NET "seg(6)" LOC = v13;
+NET "seg(5)" LOC = v15;
+NET "seg(4)" LOC = N8;
+NET "seg(3)" LOC = v10;
+NET "seg(2)" LOC = T10;
+NET "seg(1)" LOC = V16;
+NET "seg(0)" LOC = v8;
+NET "dp"     LOC = T8;
+
+NET "line(3)" LOC = U10;
+NET "line(2)" LOC = R8;
+NET "line(1)" LOC = M8;
+NET "line(O)" LOC = U8;
+
+NET "reset_sw" LOC = P4;
+NET "start_sw" LOC = P3;
+
+NET "led(1)" LOC = M14;
+NET "led(0)" LOC = U18;

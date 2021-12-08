@@ -1,0 +1,2 @@
+NET "clk0" LOC = L15;
+NET "led" LOC = U18;

@@ -1,0 +1,7 @@
+net "clk" loc=L15;
+
+net "a" loc=P3;
+net "q(3)" loc=L24;
+net "q(2)" loc=N14;
+net "q(1)" loc=M14;
+net "q(0)" loc=U18;
